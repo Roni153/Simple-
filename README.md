@@ -1,4 +1,4 @@
-hi
+
 
 # 🚀 EthStorage V1 Trusted Setup Ceremony (Local/VPS Guide)
 
@@ -15,7 +15,7 @@ hi
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl git build-essential
-2. Node.js v18 और npm v9.2 इंस्टॉल करें
+### 2. Node.js v18 और npm v9.2 इंस्टॉल करें
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt install -y nodejs
 sudo npm install -g npm@9.2
