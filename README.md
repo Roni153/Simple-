@@ -55,5 +55,3 @@ rm -rf ~/trusted-setup-tmp
 
 ये version 100% plain text है — कोई hidden character या fancy quotes नहीं,  
 GitHub में डालोगे तो commands एकदम clean copy होंगी और terminal में error नहीं आएगा।  
-
-तुम चाहो तो मैं अभी इसे तुम्हारे `BHUWANBOOS/EthStoragenode` repo के README में डालने के लिए final version बना सकता हूँ।
